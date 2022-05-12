@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f3cc40-b812-4637-a444-f5f753bb391e" name="Changes" comment="">
+    <list default="true" id="c2f3cc40-b812-4637-a444-f5f753bb391e" name="Changes" comment="java-strings-introduction">
+      <change afterPath="$PROJECT_DIR$/src/_2strings_introduction/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_1currency_formatter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1currency_formatter/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="_1currrency_formatter" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="_1currency_formatter.Main" />
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="_2strings_introduction.Main" />
       <module name="hackerrank-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,8 +55,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652238101893</updated>
-      <workItem from="1652238104786" duration="5154000" />
+      <workItem from="1652238104786" duration="5523000" />
+      <workItem from="1652246374218" duration="88000" />
+      <workItem from="1652309344730" duration="3734000" />
     </task>
+    <task id="LOCAL-00001" summary="java-currency-formatter">
+      <created>1652245299744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652245299744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java-currency-formatter" />
+    <option name="LAST_COMMIT_MESSAGE" value="java-currency-formatter" />
   </component>
 </project>
