@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f3cc40-b812-4637-a444-f5f753bb391e" name="Changes" comment="java-substring">
-      <change afterPath="$PROJECT_DIR$/src/_4substring_comparisons/Main.java" afterDir="false" />
+    <list default="true" id="c2f3cc40-b812-4637-a444-f5f753bb391e" name="Changes" comment="java-string-reverse">
+      <change afterPath="$PROJECT_DIR$/src/_5string_reverse/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="_4substring_comparisons.Main" />
+      <option name="MAIN_CLASS_NAME" value="_5string_reverse.Main" />
       <module name="hackerrank-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,7 +59,8 @@
       <workItem from="1652246374218" duration="88000" />
       <workItem from="1652309344730" duration="4334000" />
       <workItem from="1652394574788" duration="496000" />
-      <workItem from="1652487909254" duration="6264000" />
+      <workItem from="1652487909254" duration="7135000" />
+      <workItem from="1652528906201" duration="1380000" />
     </task>
     <task id="LOCAL-00001" summary="java-currency-formatter">
       <created>1652245299744</created>
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652314320408</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java-substring-comparisons">
+      <created>1652494381959</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652494381959</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java-currency-formatter" />
     <MESSAGE value="java-strings-introduction" />
-    <option name="LAST_COMMIT_MESSAGE" value="java-strings-introduction" />
+    <MESSAGE value="java-substring-comparisons" />
+    <option name="LAST_COMMIT_MESSAGE" value="java-substring-comparisons" />
   </component>
 </project>
