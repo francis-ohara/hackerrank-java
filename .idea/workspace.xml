@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2f3cc40-b812-4637-a444-f5f753bb391e" name="Changes" comment="java-anagrams">
-      <change afterPath="$PROJECT_DIR$/src/_7string_tokens/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8pattern_syntax_checker/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_7string_tokens/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7string_tokens/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +36,13 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kofio/Documents/IdeaProjects/hello-world&quot;
   }
 }</component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="_7string_tokens.Main" />
+      <option name="MAIN_CLASS_NAME" value="_8pattern_syntax_checker.Main" />
       <module name="hackerrank-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +66,9 @@
       <workItem from="1652642888296" duration="1569000" />
       <workItem from="1652644530848" duration="68000" />
       <workItem from="1652698091780" duration="4364000" />
+      <workItem from="1652714256234" duration="21000" />
+      <workItem from="1652729757452" duration="52000" />
+      <workItem from="1652816470620" duration="1955000" />
     </task>
     <task id="LOCAL-00001" summary="java-currency-formatter">
       <created>1652245299744</created>

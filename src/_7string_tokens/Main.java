@@ -15,6 +15,7 @@ public class Main{
             if(ch!=' ' && ch!='!' && ch!=',' && ch!='?' && ch!='@' && ch!='_' && ch!='\'' && ch!='.') {
                 temp += ch;
             }
+
             else if(temp.length()>0) {
                 result.add(temp);
                 temp = "";
