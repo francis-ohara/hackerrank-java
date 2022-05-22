@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f3cc40-b812-4637-a444-f5f753bb391e" name="Changes" comment="java-anagrams">
-      <change afterPath="$PROJECT_DIR$/src/_8pattern_syntax_checker/Main.java" afterDir="false" />
+    <list default="true" id="c2f3cc40-b812-4637-a444-f5f753bb391e" name="Changes" comment="java-pattern-syntax-checker">
+      <change afterPath="$PROJECT_DIR$/src/_9regex/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7string_tokens/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7string_tokens/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="_8pattern_syntax_checker.Main" />
+      <option name="MAIN_CLASS_NAME" value="_9regex.Main" />
       <module name="hackerrank-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,7 +67,9 @@
       <workItem from="1652698091780" duration="4364000" />
       <workItem from="1652714256234" duration="21000" />
       <workItem from="1652729757452" duration="52000" />
-      <workItem from="1652816470620" duration="1955000" />
+      <workItem from="1652816470620" duration="2321000" />
+      <workItem from="1652876654601" duration="6775000" />
+      <workItem from="1653179945097" duration="3342000" />
     </task>
     <task id="LOCAL-00001" summary="java-currency-formatter">
       <created>1652245299744</created>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652643820048</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="java-pattern-syntax-checker">
+      <created>1652818589894</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652818589894</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +136,7 @@
     <MESSAGE value="java-substring-comparisons" />
     <MESSAGE value="java-string-reverse" />
     <MESSAGE value="java-anagrams" />
-    <option name="LAST_COMMIT_MESSAGE" value="java-anagrams" />
+    <MESSAGE value="java-pattern-syntax-checker" />
+    <option name="LAST_COMMIT_MESSAGE" value="java-pattern-syntax-checker" />
   </component>
 </project>
